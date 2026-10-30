@@ -1,0 +1,8 @@
+10;Alimentos
+20;Bebidas
+30;Limpeza
+40;Higiene pessoal
+50;Hortifruti
+60;Papelaria
+70;Eletr“nicos
+80;Teste

@@ -1,0 +1,6 @@
+100;Arroz Camil 5Kg;A;25.90;0;0;10;1
+200;Coca-Cola 2L;B;10.99;25;1;20;1
+300;Detergente Ypˆ 150ml;C;1.70;40;1;30;0
+400;Shampoo Johnson's Baby 200ml;D;19.90;15;1;40;1
+500;Creme Hidratante;D;15.90;10;1;40;1
+600;Caderno Universit rio;A;24.90;25;1;60;0
